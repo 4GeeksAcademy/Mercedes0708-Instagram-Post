@@ -13,18 +13,19 @@ body {
     width: 100%;
     margin: 0px auto;
     padding-top: 5px;
+    font-family: sans-serif;
 }
 .post-header-left{
     width: 75%;
     float: left;
     margin-left: 10px;
     margin-top: 5px;
-    margin-bottom: 5px;
+    margin-bottom: 5px; 
 }
 .post-header-left img {
     float: left;
     width: 40px;
-    height: 40;  
+    height: 40px;  
 }
 .post-header-right {
     margin: 2px;
@@ -43,7 +44,6 @@ body {
     object-fit: cover;
 }
 .post-icons {
- 
     margin-top: 8px;
     margin-left: 16px;
     margin-right: 16px;
@@ -56,4 +56,5 @@ body {
     margin-left: 16px;
     margin-right: 16px;
     margin-top: 8px;
+    font-family: sans-serif;
 }
